@@ -1,0 +1,17 @@
+{Error using gcf
+This functionality is no longer supported under the -nojvm startup option. For
+more information, see "Changes to -nojvm Startup Option" in the MATLAB Release
+Notes. To view the release note in your system browser, run
+web('http://www.mathworks.com/help/matlab/release-notes.html#btsurqv-6',
+'-browser').
+
+Error in newplot (line 61)
+    fig = gcf;
+
+Error in showboxes (line 27)
+image(im);
+
+Error in dpm (line 42)
+showboxes(im, bbox,ff);
+} 
+

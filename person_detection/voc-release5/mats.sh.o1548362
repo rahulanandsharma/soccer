@@ -1,0 +1,75 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+~~~~~~~~~~~ Hello ~~~~~~~~~~~
+voc-release5 is not yet configured for learning. 
+You can still run demo.m, but please read 
+the section "Using the learning code" in README. 
+(Could not find the PASCAL VOC devkit in /var/tmp/rbg/VOC2007/VOCdevkit/)
+
+voc-release5 is set up
+
+name = 
+
+    'ground_zoomin.jpg'
+    'ground_zoomout.jpg'
+    'top_zoomin.jpg'
+    'top_zoomout.jpg'
+    'crowd_zoomin.jpg'
+    'crowd_zoomout.jpg'
+    'misc.jpg'
+
+
+models = 
+
+    'VOC2007/person_final.mat'
+    'VOC2007/person_grammar_final.mat'
+    'VOC2010/person_final.mat'
+    'VOC2010/person_grammar_final.mat'
+    'INRIA/inriaperson_final.mat'
+
+
+i1 =
+
+     7
+
+
+i2 =
+
+     1
+
+
+j1 =
+
+     5
+
+
+j2 =
+
+     1
+
+
+k1 =
+
+     1
+
+
+k2 =
+
+    11
+
+
+ff =
+
+soccer/ground_zoomin_VOC2007_person_final_-1.jpg
+
+>> 
